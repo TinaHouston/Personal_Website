@@ -1,0 +1,68 @@
+.sidenav {
+    height: 100%; 
+    width: 20%; 
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    background-color: rgb(17, 17, 17);
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+  
+.sidenav a {
+    padding: 60px 60px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+  
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav ul li {
+    list-style: none;
+}
+.sidenav li img {
+    margin-right: 15%;
+    padding-top: 10%;
+    padding-right: 2%;
+}
+
+.sidenav h3 {
+    color: rgb(192, 190, 190);
+    margin-right: 15%;
+    margin-bottom: -10px;
+}
+
+.sidenav p {
+    color: rgb(192, 190, 190);
+    margin-right: 10%;
+}
+
+/* .main {
+    margin-left: 160px;
+    padding: 0px 10px;
+} */
+
+.sidenav a:after{
+    content: '';
+    /* position: absolute; */
+    width: 0; height: 3px;
+    display: block;
+    margin-top: 5px;
+    /* right: 0; */
+    background: #fff;
+    transition: width .2s ease;
+    -webkit-transition: width .2s ease;
+}
+   
+.sidenav a:hover:after{
+    width: 50%;
+    /* left: 0; */
+    padding-left: -50%;
+    background: #fff;
+    margin-left: 25%;
+}
