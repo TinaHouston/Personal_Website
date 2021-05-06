@@ -20,8 +20,6 @@ const HomepageContainer = () => {
         <a href="https://github.com/TinaHouston" target="blank"><button>View GitHub Profile</button></a>
         </div>
     )
-
-
 }
 
 export default HomepageContainer;

@@ -7,7 +7,7 @@ const NavBar = () => {
             <div className="sidenav">
             <ul className="nav_ul">
                 <li>
-                <img src="http://localhost:3000/images/portrait.png" height="150" alt="portrait image"/>
+                <img src="http://localhost:3000/images/profile.png" height="150" alt="portrait image"/>
                 </li>
                 <h3>Christina Houston</h3>
                 <p>Graduate Software Developer</p>
@@ -18,7 +18,7 @@ const NavBar = () => {
                     <Link>Projects</Link>
                 </li>
                 <li className="navLink" id="text">
-                    <Link>CV</Link>
+                    <Link to="/cv">CV</Link>
                 </li>
             </ul>
             </div>
