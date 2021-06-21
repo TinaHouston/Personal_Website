@@ -1,0 +1,33 @@
+.flex-container {
+    margin-top: 5%;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding-left: 20%;
+  }
+  
+  .flex-cell {
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    padding: 0.8rem;
+    box-sizing: border-box;
+  }
+  
+  .flex-cell:before {
+    content: '';
+    display: table;
+    padding-top: 100%;
+  }
+  
+  .flex-item {
+    flex-grow: 1;
+    border: 1px solid white;
+    background: #A8FAD6;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

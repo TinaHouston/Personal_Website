@@ -101,14 +101,14 @@
 .in-from-right {
     position: relative;
     animation-name: from_right;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
 .in-from-left {
     position: relative;
     animation-name: from_left;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
 }
 
@@ -124,4 +124,8 @@
     animation-name: from_top;
     animation-duration: 1s;
     animation-fill-mode: forwards;
+}
+
+.fa-search-plus {
+    color: black;
 }
