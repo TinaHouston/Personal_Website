@@ -1,0 +1,142 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.art-image:hover {
+    transform: scale(1.07);
+}
+
+.art-image2:hover {
+    transform: scale(1.07);
+}
+
+.art-container {
+    cursor: zoom-in;
+    position: relative;
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+  
+.art-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}  
+
+.art-container2 {
+    cursor: zoom-in;
+    position: relative;
+    width: 20%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+  
+.art-image2 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 10%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+
+.art {
+    display: flex;
+}
+
+.art-title h1 {
+    text-align: center;
+    padding-left: 15%;
+}
+
+.bee-title {
+    background-color: #fdfd96;
+    padding: 5px;
+}
+
+.couple-title {
+    background-color: #BCBC82;
+    padding: 5px;
+}
+
+.face-title {
+    background-color: #FFCBA4;
+    padding: 5px;
+}
+
+.flower-title {
+    background-color: #FFCBA4;
+    padding: 5px;
+}
+
+.art-title h3 {
+    text-align: center;
+    padding-left: 15%;
+    text-align: center;
+    padding-left: 15%;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+.art-title h4 {
+    text-align: center;
+    padding-left: 15%;
+    letter-spacing: 0.15em;
+    margin-bottom: -0.5em;
+    line-height: 2em;
+}
+
+.art-link a{
+    text-decoration: none;
+    color: black;
+}
+
+.art-link a:after{
+    content: '';
+    position: absolute;
+    width: 0; height: 3px;
+    display: block;
+    margin-top: 5px;
+    right: 0;
+    background: #fff;
+    transition: width .2s ease;
+    -webkit-transition: width .2s ease;
+}
+
+.art-title button {
+    margin-top: 3%;
+    margin-left: 12%;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #555555;
+}
+
+.art-title button:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.fa-chevron-left {
+    padding-right: 10px;
+    padding-top: 1%;
+}
