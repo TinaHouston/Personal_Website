@@ -31,7 +31,7 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/">
+                                    <a href="http://localhost:3000/gym">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">

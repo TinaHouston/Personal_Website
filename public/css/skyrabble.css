@@ -21,7 +21,7 @@
     border: 1px solid #ddd;
     border-radius: 3px;
     padding: 5px;
-    margin-left: 10%;
+    margin-left: 25%;
     margin-top: 8%;
     box-shadow: 10px 10px 8px 10px #888888;
 }
@@ -36,8 +36,9 @@
 }
 
 .skyrabble-title {
-    background-color: #b17d61;
+    background-color: #1f35b1;
     padding: 5px;
+    color: white;
 }
 
 .webdev-title h3 {
@@ -107,4 +108,15 @@
     margin-top: 3%;
     justify-content: center;
     margin-left: 16%;
+}
+
+.gym-title {
+    background-color: #61aeb1;
+    padding: 5px;
+}
+
+.planning-title {
+    text-align: center;
+    padding-left: 15%;
+    margin-top: 4%;
 }
