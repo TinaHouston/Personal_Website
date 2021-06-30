@@ -15,7 +15,7 @@ const Portfolio = () => {
 
                             <div class="flex-cell">
                                 <div className="content">
-                                        <a href="http://localhost:3000/">
+                                        <a href="http://localhost:3000/skyrabble">
                                             <div className="content-overlay">
                                             </div>
                                             <div class="flex-item">
@@ -63,7 +63,7 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/">
+                                    <a href="http://localhost:3000/engagement">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
@@ -79,7 +79,7 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/">
+                                    <a href="http://localhost:3000/rainbow">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
@@ -111,7 +111,7 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/">
+                                    <a href="http://localhost:3000/silhouette">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">

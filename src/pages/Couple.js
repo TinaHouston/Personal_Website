@@ -24,7 +24,6 @@ const Couple = () => {
             </div>
         </div>
         <a href="http://localhost:3000/portfolio"><button><i class="fas fa-chevron-left"></i>Portfolio</button></a>
-
         </div>
     )
 }

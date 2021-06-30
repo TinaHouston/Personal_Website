@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.skyrabble-image:hover {
+    transform: scale(1.07);
+}
+
+.skyrabble-container {
+    cursor: zoom-in;
+    width: 20%;
+    margin-left: 38%;
+    margin-top: 3%;
+    justify-content: center;
+}
+  
+.skyrabble-image {
+    /* width: 100%;
+    height: 100%; */
+    width: 400px;
+    height: 400px;
+    /* height: auto; */
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 10%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.webdev {
+    display: flex;
+}
+
+.webdev-title h1 {
+    text-align: center;
+    padding-left: 15%;
+}
+
+.skyrabble-title {
+    background-color: #b17d61;
+    padding: 5px;
+}
+
+.webdev-title h3 {
+    text-align: center;
+    padding-left: 15%;
+    text-align: center;
+    padding-left: 15%;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+.webdev-title h4 {
+    text-align: center;
+    padding-left: 15%;
+    letter-spacing: 0.15em;
+    margin-bottom: -0.5em;
+    line-height: 2em;
+}
+
+.webdev-title p {
+    text-align: center;
+    padding-left: 15%;
+    letter-spacing: 0.15em;
+    margin-bottom: -0.5em;
+    line-height: 2em;
+}
+
+.webdev-title button {
+    margin-top: 3%;
+    margin-left: 12%;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #555555;
+    margin-bottom: 3%;
+}
+
+.webdev-title button:hover {
+    background-color: #36363686;
+    color: white;
+}
+
+.fa-chevron-left {
+    padding-right: 10px;
+    padding-top: 1%;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+    margin-left: 11%;
+}
+
+.gym-buttons {
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+    margin-left: 16%;
+}

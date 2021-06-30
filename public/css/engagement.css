@@ -1,0 +1,306 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.engagement-image:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image2:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image3:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image4:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image5:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image6:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image7:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image8:hover {
+    transform: scale(1.07);
+}
+
+.engagement-image9:hover {
+    transform: scale(1.07);
+}
+
+.engagement-container {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+  
+.engagement-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}  
+
+.engagement-container2 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+  
+.engagement-image2 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 2%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.engagement-container3 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 2%;
+    margin-top: 3%;
+    margin-right: 10%;
+}
+  
+.engagement-image3 {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}  
+
+.engagement-container4 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+  
+.engagement-image4 {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}  
+
+.engagement-container5 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+  
+.engagement-image5 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 2%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.engagement-container6 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 2%;
+    margin-top: 3%;
+    margin-right: 10%;
+}
+  
+.engagement-image6 {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+} 
+
+.engagement-container7 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+  
+.engagement-image7 {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}  
+
+.engagement-container8 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+  
+.engagement-image8 {
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 2%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.engagement-container9 {
+    cursor: zoom-in;
+    position: relative;
+    width: 25%;
+    margin-left: 2%;
+    margin-top: 3%;
+    margin-right: 10%;
+}
+  
+.engagement-image9 {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-top: 8%;
+    box-shadow: 10px 10px 8px 10px #888888;
+} 
+
+.engagement {
+    display: flex;
+}
+
+.engagement2 {
+    display: flex;
+}
+
+.engagement3 {
+    display: flex;
+}
+
+.main-title h1 {
+    text-align: center;
+    padding-left: 15%;
+}
+
+.engagement-title {
+    background-color: #a5c4a3;
+    padding: 5px;
+}
+
+.main-title h3 {
+    text-align: center;
+    padding-left: 15%;
+    text-align: center;
+    padding-left: 15%;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+.main-title h4 {
+    text-align: center;
+    padding-left: 15%;
+    letter-spacing: 0.15em;
+    margin-bottom: -0.5em;
+    line-height: 2em;
+}
+
+.art-link a{
+    text-decoration: none;
+    color: black;
+}
+
+.art-link a:after{
+    content: '';
+    position: absolute;
+    width: 0; height: 3px;
+    display: block;
+    margin-top: 5px;
+    right: 0;
+    background: #fff;
+    transition: width .2s ease;
+    -webkit-transition: width .2s ease;
+}
+
+.main-title button {
+    margin-top: 3%;
+    margin-left: 12%;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #555555;
+    margin-bottom: 3%;
+}
+
+.main-title button:hover {
+    background-color: #36363686;
+    color: white;
+}
+
+.fa-chevron-left {
+    padding-right: 10px;
+    padding-top: 1%;
+}
