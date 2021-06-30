@@ -4,12 +4,12 @@ import NavBar from '../components/NavBar';
 import HomepageContainer from './HomepageContainer';
 import Cv from '../components/Cv';
 import Portfolio from '../components/Portfolio';
-// import Basus from '../pages/Basus';
+import Basus from '../pages/Basus';
 import Bee from '../pages/Bee';
-// import CCnews from '../pages/CCnews';
+import CCnews from '../pages/CCnews';
 import Couple from '../pages/Couple';
-// import Deptford from '../pages/Deptford';
-// import ElephantPark from '../pages/ElephantPark';
+import Deptford from '../pages/Deptford';
+import ElephantPark from '../pages/ElephantPark';
 import Engagement from '../pages/Engagement';
 import Face from '../pages/Face';
 import Flower from '../pages/Flower';
@@ -36,11 +36,11 @@ const MainContainer = () => {
                 <Route path="/engagement" component={Engagement} />
                 <Route path="/skyrabble" component={Skyrabble} />
                 <Route path="/gym" component={Gym} />
-                <Route path="/" component={HomepageContainer} />
-                {/* <Route path="/basus" component={Basus} />
-                <Route path="/ccnews" component={CCnews} />
                 <Route path="/deptford" component={Deptford} />
-                <Route path="/elephantpark" component={ElephantPark} /> */}
+                <Route path="/elephantpark" component={ElephantPark} />
+                <Route path="/basus" component={Basus} />
+                <Route path="/ccnews" component={CCnews} />
+                <Route path="/" component={HomepageContainer} />
             </Switch>
             </>
         </Router>

@@ -124,3 +124,16 @@
 .fadeIn-bottom{
   top: 100%;
 }
+
+.portfolios-title {
+  background-color: #FCD9CF;
+  padding: 5px;
+  margin-left: 20%;
+}
+
+.portfolio-title p {
+  text-align: center;
+  padding-left: 15%;
+  letter-spacing: 0.15em;
+  line-height: 2em;
+}

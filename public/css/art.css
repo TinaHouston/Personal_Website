@@ -133,32 +133,33 @@
 }
 
 .bee-title {
-    background-color: #fdfd96;
+    background-color: #C28922;
+    color: white;
     padding: 5px;
 }
 
 .couple-title {
-    background-color: #BCBC82;
+    background-color: #D5D6C6;
     padding: 5px;
 }
 
 .face-title {
-    background-color: #FFCBA4;
+    background-color: #D6D7C7;
     padding: 5px;
 }
 
 .flower-title {
-    background-color: #FFCBA4;
+    background-color: #EFCEBF;
     padding: 5px;
 }
 
 .silhouette-title {
-    background-color: #b7d7e9;
+    background-color: #DAE1EB;
     padding: 5px;
 }
 
 .rainbow-title {
-    background-color: #b17d61;
+    background-color: #C4CACA;
     padding: 5px;
 }
 
@@ -224,4 +225,31 @@
 .fa-chevron-left {
     padding-right: 10px;
     padding-top: 1%;
+}
+
+.webdev-title h1 {
+    margin-top: 4%;
+}
+
+.basus-title {
+    margin-top: -4%;
+    background-color: #22BAEB;
+    padding: 5px;
+}
+
+.news-title {
+    background-color: #50C2FD;
+    padding: 5px;
+}
+
+.deptford-title {
+    background-color: #3B3837;
+    color: white;
+    padding: 5px;
+}
+
+.ep-title {
+    background-color: #C83189;
+    color: white;
+    padding: 5px;
 }

@@ -38,9 +38,11 @@
     color: white;
 }
 
-.homepage-h2 > h2 {
-    display: inline-block;
-    margin-left: -290px;
+.homepage-h2 {
+    /* display: inline-block; */
+    /* margin-left: -15%; */
+    text-align: left;
+    margin-left: 27%;
 }
 
 .name {

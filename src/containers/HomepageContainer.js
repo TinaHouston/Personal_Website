@@ -17,7 +17,7 @@ const HomepageContainer = () => {
         <br></br>
         <p>I am an eager Software Developer with a passion for UX Design,</p>
         <p>who has recently graduated from the Professional Software Development</p>
-        <p>course at CodeClan. I have a passion for designing beautiful user experiences</p>
+        <p>course at CodeClan. I love to design and create beautiful user experiences</p>
         <p>and I'm keen to continue my learning in industry</p>
         <a href="https://github.com/TinaHouston" target="blank"><button>View GitHub Profile</button></a>
         </div>
