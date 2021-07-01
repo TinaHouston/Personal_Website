@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Route, Switch} from 'react-router-dom';
     
 const Skyrabble = () => {
 
@@ -22,7 +22,7 @@ const Skyrabble = () => {
                 <Route exact path="/skyrabble"></Route>
             </Switch>
             <div class="skyrabble-container in-from-left">
-                <a href = "https://skyrabble.herokuapp.com/" target = "_blank"><img className="skyrabble-image" src="http://localhost:3000/images/Art_1.jpg" height="800"/></a>
+                <a href = "https://skyrabble.herokuapp.com/" target = "_blank"><img className="skyrabble-image" src="https://christina-houston-portfolio.web.app/images/Art_1.jpg" height="800"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
@@ -30,7 +30,7 @@ const Skyrabble = () => {
         <div className="buttons">
         <a href="https://skyrabble.herokuapp.com/"><button><i class="fas fa-chevron-left"></i>See Skyrabble in action</button></a>
         <a href="https://github.com/TinaHouston/SkyRabble"><button><i class="fas fa-chevron-left"></i>See the code</button></a>
-        <a href="http://localhost:3000/portfolio"><button><i class="fas fa-chevron-left"></i>Back to portfolio</button></a>
+        <a href="https://christina-houston-portfolio.web.app/portfolio"><button><i class="fas fa-chevron-left"></i>Back to portfolio</button></a>
         </div>
         </div>
     )

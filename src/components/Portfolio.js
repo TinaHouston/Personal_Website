@@ -15,11 +15,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/ccnews">
+                                    <a href="https://christina-houston-portfolio.web.app/ccnews">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_3.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_3.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">CC News</h3>
@@ -31,11 +31,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/basus">
+                                    <a href="https://christina-houston-portfolio.web.app/basus">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Logo_1.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Logo_1.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Basus Home Logo</h3>
@@ -47,11 +47,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/bee">
+                                    <a href="https://christina-houston-portfolio.web.app/bee">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_6.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_6.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Bee</h3>
@@ -63,11 +63,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/gym">
+                                    <a href="https://christina-houston-portfolio.web.app/gym">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_2.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_2.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Gym Manager</h3>
@@ -79,11 +79,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                                 <div className="content">
-                                        <a href="http://localhost:3000/skyrabble">
+                                        <a href="https://christina-houston-portfolio.web.app/skyrabble">
                                             <div className="content-overlay">
                                             </div>
                                             <div class="flex-item">
-                                                <img src="http://localhost:3000/images/Art_1.jpg" />
+                                                <img src="https://christina-houston-portfolio.web.app/images/Art_1.jpg" />
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <h3 className="content-title">Skyrabble</h3>
@@ -95,11 +95,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/face">
+                                    <a href="https://christina-houston-portfolio.web.app/face">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_9.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_9.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Face</h3>
@@ -111,11 +111,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/engagement">
+                                    <a href="https://christina-houston-portfolio.web.app/engagement">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_4.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_4.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Engagament</h3>
@@ -127,11 +127,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/deptford">
+                                    <a href="https://christina-houston-portfolio.web.app/deptford">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Website_1.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Website_1.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Deptford Landings</h3>
@@ -143,11 +143,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/basus">
+                                    <a href="https://christina-houston-portfolio.web.app/basus">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Website_3.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Website_3.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Basus Home Website</h3>
@@ -159,11 +159,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/rainbow">
+                                    <a href="https://christina-houston-portfolio.web.app/rainbow">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_5.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_5.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Rainbow</h3>
@@ -175,11 +175,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/silhouette">
+                                    <a href="https://christina-houston-portfolio.web.app/silhouette">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_7.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_7.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Silhouette</h3>
@@ -191,11 +191,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/elephantpark">
+                                    <a href="https://christina-houston-portfolio.web.app/elephantpark">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Website_2.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Website_2.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Elephant Park London</h3>
@@ -207,11 +207,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/couple">
+                                    <a href="https://christina-houston-portfolio.web.app/couple">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_8.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_8.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Couple</h3>
@@ -223,11 +223,11 @@ const Portfolio = () => {
 
                         <div class="flex-cell">
                             <div className="content">
-                                    <a href="http://localhost:3000/flower">
+                                    <a href="https://christina-houston-portfolio.web.app/flower">
                                         <div className="content-overlay">
                                         </div>
                                         <div class="flex-item">
-                                            <img src="http://localhost:3000/images/Art_10.jpg" />
+                                            <img src="https://christina-houston-portfolio.web.app/images/Art_10.jpg" />
                                         </div>
                                         <div class="content-details fadeIn-bottom">
                                             <h3 className="content-title">Flower</h3>

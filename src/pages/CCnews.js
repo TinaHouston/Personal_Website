@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Route, Switch} from 'react-router-dom';
     
 const CCnews = () => {
 
@@ -24,12 +24,12 @@ const CCnews = () => {
                 <Route exact path="/ccnews"></Route>
             </Switch>
             <div class="art-container3 in-from-left">
-                <a href = "http://localhost:3000/images/page_images/ccnews1.png" target = "_blank"><img className="art-image3" src="http://localhost:3000/images/page_images/ccnews1.png" height="550"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews1.png" target = "_blank"><img className="art-image3" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews1.png" height="550"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
             <div class="art-container4 in-from-right">
-                <a href = "http://localhost:3000/images/page_images/ccnews2.png" target = "_blank"><img className="art-image4" src="http://localhost:3000/images/page_images/ccnews2.png" height="500"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews2.png" target = "_blank"><img className="art-image4" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews2.png" height="500"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
@@ -40,12 +40,12 @@ const CCnews = () => {
 
         <div className="art2">
             <div class="art-container3 in-from-left">
-                <a href = "http://localhost:3000/images/page_images/ccnews3.png" target = "_blank"><img className="art-image3" src="http://localhost:3000/images/page_images/ccnews3.png" height="550"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews3.png" target = "_blank"><img className="art-image3" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews3.png" height="550"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
             <div class="art-container4 in-from-right">
-                <a href = "http://localhost:3000/images/page_images/ccnews4.png" target = "_blank"><img className="art-image4" src="http://localhost:3000/images/page_images/ccnews4.png" height="500"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews4.png" target = "_blank"><img className="art-image4" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews4.png" height="500"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
@@ -56,12 +56,12 @@ const CCnews = () => {
                 <Route exact path="/ccnews"></Route>
             </Switch>
             <div class="art-container3 in-from-left">
-                <a href = "http://localhost:3000/images/page_images/ccnews5.png" target = "_blank"><img className="art-image3" src="http://localhost:3000/images/page_images/ccnews5.png" height="550"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews5.png" target = "_blank"><img className="art-image3" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews5.png" height="550"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
             <div class="art-container4 in-from-right">
-                <a href = "http://localhost:3000/images/page_images/ccnews6.png" target = "_blank"><img className="art-image4" src="http://localhost:3000/images/page_images/ccnews6.png" height="500"/></a>
+                <a href = "https://christina-houston-portfolio.web.app/images/page_images/ccnews6.png" target = "_blank"><img className="art-image4" src="https://christina-houston-portfolio.web.app/images/page_images/ccnews6.png" height="500"/></a>
                     <div class="art-overlay">
                     </div>
             </div>
@@ -70,7 +70,7 @@ const CCnews = () => {
         <div className="buttons">
         <a href="https://www.youtube.com/watch?v=3CIGxUUhcpw"><button><i class="fas fa-chevron-left"></i>Watch app demo</button></a>
         <a href="https://github.com/TinaHouston/Java_News_App_Frontend"><button><i class="fas fa-chevron-left"></i>See the code</button></a>
-        <a href="http://localhost:3000/portfolio"><button><i class="fas fa-chevron-left"></i>Back to portfolio</button></a>
+        <a href="https://christina-houston-portfolio.web.app/portfolio"><button><i class="fas fa-chevron-left"></i>Back to portfolio</button></a>
         </div>
 
         </div>
