@@ -1,29 +1,3 @@
-/* .image1 {
-    border: 1px solid #ddd;
-    border-radius: 3px;
-    padding: 5px;
-    margin-left: 20%;
-    margin-top: 8%;
-    box-shadow: 10px 10px 8px 10px #888888;
-}
-
-.image2 {
-    border: 1px solid #ddd;
-    border-radius: 3px;
-    padding: 5px;
-    margin-left: 5%;
-    margin-top: 8%;
-    box-shadow: 10px 10px 8px 10px #888888;
-}
-
-/* .image1:hover {
-    transform: scale(1.07);
-}
-
-.image2:hover {
-    transform: scale(1.07);
-} */
-
 .image:hover {
     transform: scale(1.07);
 }
@@ -72,7 +46,6 @@
     box-shadow: 10px 10px 8px 10px #888888;
 }
 
-
 .cv {
     display: flex;
 }
@@ -104,18 +77,6 @@
     transition: width .2s ease;
     -webkit-transition: width .2s ease;
 }
-   
-/* .cv-link a:hover:after{
-    width: 20%;
-    left: 0;
-    padding-left: -50%;
-    background: rgb(45, 171, 175);
-    margin-left: 47%;
-}
-
-.cv-link:hover {
-    transform: scale(1.07);
-} */
 
 .CV-title button {
     margin-top: 3%;
@@ -136,4 +97,65 @@
 .CV-title button:hover {
     background-color: #555555;
     color: white;
+}
+
+.aboutme-title {
+    background-color: #FDFD96;
+    padding: 5px;
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    
+    .CV-title h1 {
+        font-size: 25px;
+        margin-top: 6%;
+    }
+
+    .CV-title button {
+        margin-top: 3%;
+        padding: 10px 36px;
+        font-size: 14px;
+        margin-top: 12%;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .CV-title h1 {
+        font-size: 25px;
+        margin-bottom: 10%;
+        margin-top: 10%;
+    }
+
+    .CV-title button {
+        margin-top: 3%;
+        padding: 10px 26px;
+        font-size: 14px;
+        margin-top: 17%;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 376px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    .CV-title h1 {
+        font-size: 20px;
+        margin-bottom: 11%;
+        margin-top: 10%;
+    }
+
+    .CV-title button {
+        margin-top: 3%;
+        padding: 6px 21px;
+        font-size: 12px;
+        margin-top: 17%;
+    }
 }

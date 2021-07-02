@@ -138,31 +138,6 @@
     padding: 5px;
 }
 
-.couple-title {
-    background-color: #D5D6C6;
-    padding: 5px;
-}
-
-.face-title {
-    background-color: #D6D7C7;
-    padding: 5px;
-}
-
-.flower-title {
-    background-color: #EFCEBF;
-    padding: 5px;
-}
-
-.silhouette-title {
-    background-color: #DAE1EB;
-    padding: 5px;
-}
-
-.rainbow-title {
-    background-color: #C4CACA;
-    padding: 5px;
-}
-
 .art-title h3 {
     text-align: center;
     padding-left: 15%;
@@ -181,6 +156,7 @@
     letter-spacing: 0.15em;
     margin-bottom: -0.5em;
     line-height: 2em;
+    margin-left: 5%;
 }
 
 .art-link a{
@@ -240,6 +216,7 @@
 .news-title {
     background-color: #50C2FD;
     padding: 5px;
+    margin-left: 2%;
 }
 
 .deptford-title {
@@ -252,4 +229,107 @@
     background-color: #C83189;
     color: white;
     padding: 5px;
+}
+
+.couple-title {
+    background-color: #D5D6C6;
+    padding: 5px;
+}
+
+.face-title {
+    background-color: #D6D7C7;
+    padding: 5px;
+}
+
+.flower-title {
+    background-color: #EFCEBF;
+    padding: 5px;
+}
+
+.silhouette-title {
+    background-color: #DAE1EB;
+    padding: 5px;
+}
+
+.rainbow-title {
+    background-color: #C4CACA;
+    padding: 5px;
+}
+
+.gym-title {
+    background-color: #95A7A7;
+    color: white;
+    padding: 5px;
+}
+
+.planning-title {
+    text-align: center;
+    padding-left: 15%;
+    margin-top: 4%;
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .art-title h4 {
+        font-size: 14px;
+        margin-bottom: 2%;
+    }
+
+    .art-title button {
+        margin-top: 5%;
+        padding: 11px 26px;
+        margin-bottom: 4%;
+        margin-left: 19%;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .art-title h4 {
+        font-size: 10px;
+        margin-bottom: 6%;
+    }
+
+    .art-title button {
+        margin-top: 10%;
+        padding: 10px 25px;
+        margin-bottom: 4%;
+        font-size: 12px;
+    }
+
+    .art-title h1 {
+        font-size: 30px;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 376px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .art-title h4 {
+        font-size: 9px;
+        margin-bottom: 6%;
+        width: 70%;
+        margin-left: 10%;
+    }
+
+    .art-title button {
+        margin-top: 12%;
+        padding: 10px 25px;
+        margin-bottom: 4%;
+        margin-left: 12%;
+        font-size: 11px;
+    }
+
+    .art-title h1 {
+        font-size: 27px;
+    }
+
+    .art-title h3 {
+        font-size: 17px;
+    }
 }

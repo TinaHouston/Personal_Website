@@ -7,7 +7,7 @@ const Engagement = () => {
         <div className="main-title">
         <h1><span className="engagement-title">Engagement</span></h1>
         <h3>Digital Art</h3>
-        <h4>Created using Photoshop.<br></br>Image made up of free hand line drawing with different coloured backgrounds,<br></br>and personalised date and names.<br></br>If you'd like a closer look, click on the image.</h4>
+        <h4>Created using Photoshop.<br></br><br></br>Image made up of free hand line drawing<br></br>with different coloured backgrounds,<br></br>and personalised date and names.<br></br><br></br>If you'd like a closer look, click on the image.</h4>
         <div className="engagement">
             <Switch>
                 <Route exact path="/engagement"></Route>

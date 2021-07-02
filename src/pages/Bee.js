@@ -7,7 +7,7 @@ const Bee = () => {
         <div className="art-title">
         <h1><span className="bee-title">Bee</span></h1>
         <h3>Digital Art</h3>
-        <h4>Created using Photoshop, made up of different sized layers to make the shape of a bee.<br></br>Layers drawn by freehand and filled in.<br></br>If you'd like a closer look, click on the image.</h4>
+        <h4>Created using Photoshop,<br></br><br></br>made up of different sized layers to make the shape of a bee.<br></br>Layers drawn by freehand and filled in.<br></br><br></br>If you'd like a closer look, click on the image.</h4>
         <div className="art">
             <Switch>
                 <Route exact path="/bee"></Route>

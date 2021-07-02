@@ -119,6 +119,7 @@
 .content-details p{
   color: #fff;
   font-size: 1em;
+  margin-left: -100px;
 }
 
 .fadeIn-bottom{
@@ -150,7 +151,7 @@
     }
 
     .content-details h3 {
-      margin-left: -20px;
+      margin-left: -10px;
       font-size: 20px;
     }
 
@@ -199,13 +200,15 @@
     }
 
     .content-details h3 {
-      margin-left: -10px;
+      margin-left: -1px;
       font-size: 10px;
+      width: auto;
     }
 
     .content-details p {
       /* margin-right: 120px; */
-      margin-left: -30px;
+      margin-left: -12px;
       font-size: 5px;
+      width: auto;
     }
 }

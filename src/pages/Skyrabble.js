@@ -6,9 +6,8 @@ const Skyrabble = () => {
     return (
         <div className="webdev-title">
         <h1><span className="skyrabble-title">Skyrabble</span></h1>
-        <h3>Software Development</h3>
-        <h4>A JavsScript project using the OpenSky and What 3 Words API.</h4>
-        <p> A flight based apps allowing users to enter their location using<br></br>What 3 Words and show a list of flights in their area.</p>
+        <h3><span className="skyrabble-title2">Software Development</span></h3>
+        <p> A flight based app allowing users to enter their location<br></br>using the What 3 Words API and show a list<br></br>of flights in their area pulled from the Open Sky API</p>
         <h4>What tools were used?</h4>
         <p>JavaScript, MongoDB, React, Express, CSS, HTML5.</p>
         <h4>What did I learn from this project?</h4>

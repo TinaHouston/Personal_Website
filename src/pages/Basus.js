@@ -6,12 +6,12 @@ const Basus = () => {
     return (
         <div className="webdev-title">
         <h1><span className="basus-title">Basus Home</span></h1>
-        <h3>Web Development and Logo Creation</h3>
+        <h3><span className="basus-subheading">Web Development and Logo Creation</span></h3>
         <p>Basus Home is a furniture store located in Giffnock, Glasgow.<br></br>The client needed a new logo to feature throughout the store and on their digital channels,<br></br>along with an easy to use but attractive website to showcase their products.</p>
         <h4>Research</h4>
-        <p>Competitor anlysis and user research was undertaken before starting the design and website creation.</p>
+        <p>Competitor anlysis and user research was undertaken<br></br>before starting the design and website creation.</p>
         <h4>What tools were used for the website?</h4>
-        <p>As the client would be managing the website themselves after the work was completed,<br></br>Square Space was used to create the website and give the client<br></br>an easier user experience after the project was finished.</p>
+        <p>As the client would be managing the website themselves after the<br></br>work was completed, Square Space was used to create the website<br></br>and give the client an easier user experience after the project was finished.</p>
         <h1><span className="website-title">Website Preview</span></h1>
         <div className="engagement">
             <Switch>

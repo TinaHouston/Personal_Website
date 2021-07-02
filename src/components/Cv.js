@@ -5,7 +5,7 @@ const Cv = () => {
 
     return (
         <div className="CV-title">
-        <h1>About me</h1>
+        <h1><span className="aboutme-title">About me</span></h1>
         <div className="cv">
             <Switch>
                 <Route exact path="/cv"></Route>

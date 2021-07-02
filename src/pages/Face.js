@@ -7,7 +7,7 @@ const Face = () => {
         <div className="art-title">
         <h1><span className="face-title">Face</span></h1>
         <h3>Digital Art</h3>
-        <h4>Created using Photoshop, made up of single line drawing.<br></br>Image made up of one single line, drawn by free hand and spaces coloured in.<br></br>If you'd like a closer look, click on the image.</h4>
+        <h4>Created using Photoshop<br></br><br></br>Image made up of one single line, drawn by free hand and spaces coloured in.<br></br><br></br>If you'd like a closer look, click on the image.</h4>
         <div className="art">
             <Switch>
                 <Route exact path="/bee"></Route>

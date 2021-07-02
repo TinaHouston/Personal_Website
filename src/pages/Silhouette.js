@@ -7,7 +7,7 @@ const Silhouette = () => {
         <div className="art-title">
         <h1><span className="silhouette-title">Silhouette</span></h1>
         <h3>Digital Art</h3>
-        <h4>Created using Photoshop.<br></br>Image made up of free hand line drawing,<br></br>with various textures found online and coloured in.<br></br>If you'd like a closer look, click on the image.</h4>
+        <h4>Created using Photoshop.<br></br><br></br>Image made up of free hand line drawing,<br></br>with various textures found online and coloured in.<br></br><br></br>If you'd like a closer look, click on the image.</h4>
         <div className="art">
             <Switch>
                 <Route exact path="/silhouette"></Route>
